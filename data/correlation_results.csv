@@ -1,0 +1,25 @@
+date,feature,target,n,pearson_r
+18 Mar 2022,NDVI_calculated,yield_g,129,0.6688313836119384
+18 Mar 2022,NDVI_calculated,plant_height_cm,129,-0.2978330734529968
+18 Mar 2022,NDRE_calculated,yield_g,129,-0.08056713249035607
+18 Mar 2022,NDRE_calculated,plant_height_cm,129,-0.00797269234074453
+18 Mar 2022,EVI,yield_g,129,0.6546764736331108
+18 Mar 2022,EVI,plant_height_cm,129,-0.2542163182500385
+11 Apr 2022,NDVI_calculated,yield_g,128,0.47332311532622684
+11 Apr 2022,NDVI_calculated,plant_height_cm,128,-0.032184227879449585
+11 Apr 2022,NDRE_calculated,yield_g,128,0.3965220641007371
+11 Apr 2022,NDRE_calculated,plant_height_cm,128,0.006881749048485835
+11 Apr 2022,EVI,yield_g,128,0.5088915767304054
+11 Apr 2022,EVI,plant_height_cm,128,-0.004609061508035403
+16 May 2022,NDVI_calculated,yield_g,129,0.3474106566307501
+16 May 2022,NDVI_calculated,plant_height_cm,129,-0.12633006758837545
+16 May 2022,NDRE_calculated,yield_g,129,0.46069286314086777
+16 May 2022,NDRE_calculated,plant_height_cm,129,-0.1436085070845181
+16 May 2022,EVI,yield_g,129,0.0817995071396598
+16 May 2022,EVI,plant_height_cm,129,-0.040652195876282694
+27 May 2022,NDVI_calculated,yield_g,99,0.40435106558307665
+27 May 2022,NDVI_calculated,plant_height_cm,99,-0.14758588490366084
+27 May 2022,NDRE_calculated,yield_g,99,0.4404454224617729
+27 May 2022,NDRE_calculated,plant_height_cm,99,-0.06476077006652163
+27 May 2022,EVI,yield_g,99,0.20075099122435802
+27 May 2022,EVI,plant_height_cm,99,0.3103768568757773
